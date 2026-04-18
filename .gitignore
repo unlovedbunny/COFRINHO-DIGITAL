@@ -1,6 +1,6 @@
 *.iml
 .gradle
-/local.properties
+/local.propertigit push origin --force --alles
 /.idea/caches
 /.idea/libraries
 /.idea/modules.xml
@@ -13,3 +13,4 @@
 .externalNativeBuild
 .cxx
 local.properties
+app/google-services.json
